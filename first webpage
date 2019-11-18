@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Favorites</title>
+</head>
+<body>
+	
+	  <p><a href="recipe.html">RECIPES</a></p>
+	
+  <h1>Mr. Mann's Favorites</h1>
+  <h3>Favorite TV Shows</h3>
+	<p>I've been watching great TV shows for the last 4 decades.  Some of my favorites are detective shows, but I also enjoy comedies.</p>
+	  <a href="https://www.usanetwork.com/psych"><img src="images/psych.jpg" alt="Psych TV Show" width="400px"></a>
+	  <p>"Psych panel - CC 2011" by Jon Scally is licensed under CC BY-NC-ND 2.0 </p>
+	<ul>
+ 	  <li><a href="https://www.usanetwork.com/psych" target="_blank">Psych</a></li>
+	  <li>The Office</li>
+	  <li>FOX NCAA Football</li>
+	  <li>The Price is Right</li>
+	  <li>American Ninja Warrior</li>
+	</ul>
+<hr>
+  <h3>Favorite Animals</h3>
+	<p>Animals can be cute, cuddly and ferocious.  These are my favorites.</p>
+	<img src="images/dog.jpg" alt="Shih Tsu running" width="400px">
+	<p>"Harry, by tim O' tei. lol" by LHG Creative Photography is licensed under CC BY-NC-ND 2.0 </p>
+	<ol>
+	  <li>Lions</li>
+	  <li><a href="https://www.akc.org/dog-breeds/shih-tzu/" target="_blank">Dogs</a></li>
+	  <li>Bears</li>
+	  <li><a href="https://www.alvinisd.net/Domain/4091" target="_blank">Sharks</a></li>
+	  <li>Donkeys</li>
+	</ol>
+<hr/>
+  <h3>My Favorite Ski Mountains</h3>
+	<p>I love winter sports.  Skiing is my favorite, and these are my favorite mountains in Colorado.</p>
+	<img src="images/breck.jpg" alt="Breckenridge, Colorado" width="400px">
+	<p>"Breckenridge Snow - 24" by Grayskullduggery is licensed under CC BY-SA 2.0 </p>
+	<ul>
+	  <li><a href="https://www.breckenridge.com/" target="_blank">Breck</a></li>
+	  <li>Steamboat</li>
+	  <li>Aspen</li>
+	  <li>Vail</li>
+	  <li>Winter Park</li>
+	</ul>
